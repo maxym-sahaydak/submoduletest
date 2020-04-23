@@ -1,0 +1,6 @@
+[submodule "progect1"]
+	path = progect1
+	url = /Users/msahaydak/projects/work/submodule/submoduletest/progect1
+[submodule "progect2"]
+	path = progect2
+	url = /Users/msahaydak/projects/work/submodule/submoduletest/progect2
